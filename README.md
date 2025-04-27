@@ -5,7 +5,7 @@ Farklı cihazlarda sorunsuz çalışan bir yapı oluşturulmuştur. CSS ile hove
   <br/><br/>
 
   ## 📸 Proje Önizlemesi
-![Uploading netflix-clone-ezgif.com-optimize.gif…]()
+
 
 
 <br/><br/>
@@ -32,3 +32,10 @@ netflix-clone/
 ├── script.js
 └── assets/
     └── netflix-clone-preview.gif
+    
+<br/><br/>
+📌 Not
+Bu proje bireysel olarak geliştirilmiştir. Temel web geliştirme becerilerini geliştirmek ve gerçek bir platform görünümünü taklit etmek amacıyla yapılmıştır. İleride yeni özellikler eklenerek daha da geliştirilebilir.
+
+ <br/><br/>
+⭐ Eğer projeyi beğendiyseniz, repo'ya ⭐ vermeyi unutmayın!
