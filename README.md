@@ -6,6 +6,7 @@ Farklı cihazlarda sorunsuz çalışan bir yapı oluşturulmuştur. CSS ile hove
 
   ## 📸 Proje Önizlemesi
 
+![netflix-clone-ezgif com-optimize](https://github.com/user-attachments/assets/9005d226-6109-4494-8047-5beb11583a63)
 
 
 <br/><br/>
